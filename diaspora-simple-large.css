@@ -146,5 +146,11 @@ Profile
 
 .span-18 .comments .comment .bd{background: #fff !important;border:1px solid #000 !important;padding: 5px !important;}
 
+/*********************************
+Tags page
+**********************************/
+    
+div[data-template="tag_following_action"]{margin-top: 80px !important;}
+#tags_show .comment_stream .comments .comment:before{display:none !important;}
 
 }
